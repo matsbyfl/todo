@@ -30,6 +30,9 @@
 - sql developer
 - office
 - atom + atom konfig
+  * git plugin
+  * run node stuff
+  * github configuration sync 
 - c:/apps
 - isku driver
 - 7 zip?
