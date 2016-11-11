@@ -1,46 +1,42 @@
 # todo
----
 
-1. Pipeline for pluginet
-1. Torstein om lang talk til testdagen
-1. NodeRest service i fasit, fix NPE
 1. lage put/post tester på resource api i fasit
+1. dokumentere rest fasit api
+1. NodeRest service i fasit, fix NPE
+1. lage aura bloggen <3
 1. basta feile hvis appgruppe er tom. Evt gå mot cluster
 1. Hubot script postkasse, postkasse, postkasse
+1. hubot docker
+1. auragc
 1. Blue ocean Administration og personalization
 1. Fasit nytt resource view
 1. Hubot utviklingsflow
 1. Hubot sette debug på servere
 1. Se på tester for fasit mot oracle
-1. MET score calculator
-1. lage Pipeline filer for *ra appene
+1. Flytte vera kall fra fasit til pluginet
+1. Rydde i pom for fasit-rest
+1. autostrada-gui
+1. lage Pipeline filer for \*ra appene
+1. slanke aura maven pom
 
 
 # ikon
 
-- maven
-- settings.xml
-- moba xterm
-- idea
-- chrome shortcuts
 - postman
-- monaco
 - eclipse formatter
-- hipchat konfig
+- paralell java i idea
+- ikke fiks på imports
 - sql developer
-- office
 - atom + atom konfig
   * git plugin
   * run node stuff
-  * github configuration sync 
+  * github configuration sync
 - c:/apps
 - isku driver
-- 7 zip?
 - Lock hunter
 - node js
 - yarn
 - git hub proxy
 - npm proxy
-- oppgradere moba
 - sublime text
 - chrome extensions
